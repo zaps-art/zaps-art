@@ -1,19 +1,19 @@
 # Hey, I'm Ziad 👋
 
-### 🌐 Network & Telecommunications Engineering Student
+### Network & Telecommunications Engineering Student
 
 I'm a  **Network & Telecommunications Engineering student** passionate about building and understanding the technologies that connect people, systems, and data.
 
 I'm particularly interested in:
 
-* 🌐 Computer Networks & Network Engineering
-* 📡 Wireless & 5G/6G Technologies
-* ☁️ Cloud Computing
-* 🤖 AI/ML applied to Networking
-* 🔐 Cybersecurity
-* 🐧 Linux & Systems
+*  Computer Networks & Network Engineering
+*  Wireless & 5G/6G Technologies
+*  Cloud Computing
+*  AI/ML applied to Networking
+*  Cybersecurity
+*  Linux & Systems
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **Networking**
 `Cisco` `CCNA` `TCP/IP` `Routing & Switching` `Wireshark`
@@ -27,11 +27,11 @@ I'm particularly interested in:
 **Currently Exploring**
 `Machine Learning` `Network Automation` `5G/6G` `Cloud Networking` `Network Simulation`
 
-### 📚 Currently Learning
+### Currently Learning
 
 I'm currently working on strengthening my skills in **network engineering, cloud technologies, and machine learning**, while developing projects that combine networking with data and AI.
 
-### 🚀 What I'm Looking For
+### What I'm Looking For
 
 I'm interested in opportunities where I can:
 
@@ -41,11 +41,11 @@ I'm interested in opportunities where I can:
 * Apply AI/ML to networking problems
 * Collaborate with people who enjoy building and learning
 
-### 📌 Featured Projects
+### Featured Projects
 
 Here you'll find some of my academic projects, experiments, simulations, and personal work related to networking, programming, cloud computing, and AI/ML.
 
-### 📫 Let's Connect
+### Let's Connect
 
 I'm always open to learning, collaborating, and connecting with people interested in **networks, cloud, wireless technologies, and AI**.
 
